@@ -1,4 +1,4 @@
-remote-theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
