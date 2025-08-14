@@ -1,8 +1,11 @@
 remote_theme: just-the-docs/just-the-docs
 
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-url: https://just-the-docs.github.io
+title: Simple Notes
+description: Many random notes worth searching
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+
